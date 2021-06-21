@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Software Solutions. - GitHub WebHook -- 7.30 AM Batch</h1>
-<h1 align="center"> Welcome to Ahmed Software Solutions.......We have a demo on  DevOps with AWS on  500th June  2050  at 7 PM IST for new batch. please you should join our course,</h1>
+<h1 align="center"> Welcome to Ahmed Software Solutions........Hey i am just exploring jenkins poll scm pleas pray for me i will sucess please you should join our course,</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
